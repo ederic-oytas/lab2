@@ -96,9 +96,7 @@ Students will maintain a private github repository, cloning this repo and
 sharing collaboration rights with the TA. Fill in the answers to the
 questions listed in **`SUBMISSION.md`**. 
 
-Students will add the TA to their labs as a collaborator. The TA's
-gitHub: [https://github.com/Breanna-Geller]. 
-
+Students will add the TA to their labs as a collaborator.
 
 ## Grading Rubric
 
