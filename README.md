@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understanding Rigid Body Transformations in the simulation environment
+Understanding Rigid Body Transformations in the simulation environment
 
 ## Before you start
 
